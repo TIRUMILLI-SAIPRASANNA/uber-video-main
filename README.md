@@ -69,8 +69,8 @@ npm run dev
 Visit http://localhost:5173 to see the app in action.
 📸 Screenshots
 
-<img width="1920" height="881" alt="uberappp" src="https://github.com/user-attachments/assets/378583a2-7e40-4416-8760-137777dfcb26" />
 
+<img width="1920" height="881" alt="uberappp" src="https://github.com/user-attachments/assets/f07c7a48-f5c9-4d79-8d6a-93f93bf05330" />
 
 🤝 Contributing
 
